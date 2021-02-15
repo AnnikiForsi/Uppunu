@@ -3,13 +3,13 @@
 using UnrealBuildTool;
 using System.Collections.Generic;
 
-public class Uppunu_V1Target : TargetRules
+public class UppunuEditorTarget : TargetRules
 {
-	public Uppunu_V1Target(TargetInfo Target) : base(Target)
+	public UppunuEditorTarget(TargetInfo Target) : base(Target)
 	{
-		Type = TargetType.Game;
+		Type = TargetType.Editor;
 		DefaultBuildSettings = BuildSettingsVersion.V2;
 
-		ExtraModuleNames.AddRange( new string[] { "Uppunu_V1" } );
+		ExtraModuleNames.AddRange( new string[] { "Uppunu" } );
 	}
 }

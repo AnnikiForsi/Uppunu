@@ -10,7 +10,7 @@
  * 
  */
 UCLASS()
-class UPPUNU_V1_API URotation_Quat : public UBlueprintFunctionLibrary
+class UPPUNU_API URotation_Quat : public UBlueprintFunctionLibrary
 {
 	GENERATED_BODY()
 	

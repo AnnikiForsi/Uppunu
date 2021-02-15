@@ -2,9 +2,9 @@
 
 using UnrealBuildTool;
 
-public class Uppunu_V1 : ModuleRules
+public class Uppunu : ModuleRules
 {
-	public Uppunu_V1(ReadOnlyTargetRules Target) : base(Target)
+	public Uppunu(ReadOnlyTargetRules Target) : base(Target)
 	{
 		PCHUsage = PCHUsageMode.UseExplicitOrSharedPCHs;
 	
