@@ -204,30 +204,30 @@
 "../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_ChromaKey_Lit.uasset" 203
 "../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_OpaqueColoredMaterial.uasset" 204
 "../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_WhiteMaterial.uasset" 205
-"../../../../../../Study/4 year/UE4/Uppunu/Content/Basics/HUD/Loading/BackGround_Loading.uasset" 206
-"../../../../../../Study/4 year/UE4/Uppunu/Content/Basics/HUD/Loading/Opening_Logo.uasset" 207
-"../../../../../../Study/4 year/UE4/Uppunu/Content/Basics/HUD/Loading/BackGround_Loading_MediaPlayer.uasset" 208
-"../../../../../../Study/4 year/UE4/Uppunu/Content/Basics/HUD/Loading/BackGround_Loading_Video.uasset" 209
-"../../../../../../Study/4 year/UE4/Uppunu/Content/Basics/HUD/Loading/M_BackGround_Loading.uasset" 210
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/TextureCropping.uasset" 211
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/ComputeMipLevel.uasset" 212
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent/DebugNumberStrip.uasset" 213
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent/Textures/DebugNumberPeriod.uasset" 214
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/DebugScalarValues.uasset" 215
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/DebugFloat2Values.uasset" 216
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent/Textures/flipbook.uasset" 217
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Texturing/FlipBook.uasset" 218
-"../../../../../../Study/4 year/UE4/Uppunu/Content/Basics/HUD/Loading/Logo_Loading.uasset" 219
-"../../../../../../Study/4 year/UE4/Uppunu/Content/Basics/HUD/Loading/M_Logo_Loading.uasset" 220
-"../../../../../../Study/4 year/UE4/Uppunu/Content/Basics/HUD/Loading/Logo_Opening_MediaPlayer.uasset" 221
-"../../../../../../Study/4 year/UE4/Uppunu/Content/Basics/HUD/Loading/Logo_Opening_Video.uasset" 222
-"../../../../../../Study/4 year/UE4/Uppunu/Content/Basics/HUD/Loading/M_Logo_Opening.uasset" 223
-"../../../../../../Study/4 year/UE4/Uppunu/Content/Basics/HUD/Loading/BackGround_Outline.uasset" 224
-"../../../../../../Study/4 year/UE4/Uppunu/Content/Basics/HUD/Open_Level/BackGround_Open_Close.uasset" 225
-"../../../../../../Study/4 year/UE4/Uppunu/Content/Basics/HUD/Loading/Loading_Screen.uasset" 226
-"../../../../../../Study/4 year/UE4/Uppunu/Content/Basics/Sound/Music/Opening.uasset" 227
-"../../../../../../Study/4 year/UE4/Uppunu/Content/Basics/Sound/Music/Opening_Cue.uasset" 228
-"../../../../../../Study/4 year/UE4/Uppunu/Content/Basics/Sound/Opening_Cue.uasset" 229
+"../../../../../../Study/4 year/UE4/Uppunu/Content/Basics/HUD/Open_Level/BackGround_Open_Close.uasset" 206
+"../../../../../../Study/4 year/UE4/Uppunu/Content/Basics/HUD/Close_Level/Close_Level.uasset" 207
+"../../../../../../Study/4 year/UE4/Uppunu/Content/Basics/HUD/Loading/BackGround_Loading.uasset" 208
+"../../../../../../Study/4 year/UE4/Uppunu/Content/Basics/HUD/Loading/Opening_Logo.uasset" 209
+"../../../../../../Study/4 year/UE4/Uppunu/Content/Basics/HUD/Loading/BackGround_Loading_MediaPlayer.uasset" 210
+"../../../../../../Study/4 year/UE4/Uppunu/Content/Basics/HUD/Loading/BackGround_Loading_Video.uasset" 211
+"../../../../../../Study/4 year/UE4/Uppunu/Content/Basics/HUD/Loading/M_BackGround_Loading.uasset" 212
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/TextureCropping.uasset" 213
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/ComputeMipLevel.uasset" 214
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent/DebugNumberStrip.uasset" 215
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent/Textures/DebugNumberPeriod.uasset" 216
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/DebugScalarValues.uasset" 217
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/DebugFloat2Values.uasset" 218
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent/Textures/flipbook.uasset" 219
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Texturing/FlipBook.uasset" 220
+"../../../../../../Study/4 year/UE4/Uppunu/Content/Basics/HUD/Loading/Logo_Loading.uasset" 221
+"../../../../../../Study/4 year/UE4/Uppunu/Content/Basics/HUD/Loading/M_Logo_Loading.uasset" 222
+"../../../../../../Study/4 year/UE4/Uppunu/Content/Basics/HUD/Loading/Logo_Opening_MediaPlayer.uasset" 223
+"../../../../../../Study/4 year/UE4/Uppunu/Content/Basics/HUD/Loading/Logo_Opening_Video.uasset" 224
+"../../../../../../Study/4 year/UE4/Uppunu/Content/Basics/HUD/Loading/M_Logo_Opening.uasset" 225
+"../../../../../../Study/4 year/UE4/Uppunu/Content/Basics/HUD/Loading/BackGround_Outline.uasset" 226
+"../../../../../../Study/4 year/UE4/Uppunu/Content/Basics/HUD/Loading/Loading_Screen.uasset" 227
+"../../../../../../Study/4 year/UE4/Uppunu/Content/Basics/Sound/Music/Opening.uasset" 228
+"../../../../../../Study/4 year/UE4/Uppunu/Content/Basics/Sound/Music/Opening_Cue.uasset" 229
 "../../../../../../Study/4 year/UE4/Uppunu/Content/Basics/Levels/Open_Level.umap" 230
 "../../../Engine/Content/EditorBlueprintResources/StandardMacros.uasset" 231
 "../../../../../../Study/4 year/UE4/Uppunu/Content/Basics/Answer_P.uasset" 232
@@ -325,23 +325,27 @@
 "../../../../../../Study/4 year/UE4/Uppunu/Content/Backgrounds/Meshes/SM_BackGround_Line_3.uasset" 324
 "../../../../../../Study/4 year/UE4/Uppunu/Content/Backgrounds/Meshes/SM_BackGround_Line_4.uasset" 325
 "../../../../../../Study/4 year/UE4/Uppunu/Content/Backgrounds/Meshes/SM_BackGround_Line_R1.uasset" 326
-"../../../../../../Study/4 year/UE4/Uppunu/Content/Basics/HUD/Close_Level/Close_Level.uasset" 327
-"../../../../../../Study/4 year/UE4/Uppunu/Content/Basics/HUD/Open_Level/Open_Level.uasset" 328
-"../../../../../../Study/4 year/UE4/Uppunu/Content/Basics/HUD/Timer_Answers/Answer_False.uasset" 329
-"../../../../../../Study/4 year/UE4/Uppunu/Content/Basics/HUD/Timer_Answers/Answer_True.uasset" 330
-"../../../../../../Study/4 year/UE4/Uppunu/Content/Basics/HUD/Timer_Answers/Main_Timer_Answers.uasset" 331
-"../../../../../../Study/4 year/UE4/Uppunu/Content/Basics/Sound/Effects/False_Answer.uasset" 332
-"../../../../../../Study/4 year/UE4/Uppunu/Content/Basics/Sound/Effects/False_Answer_Cue.uasset" 333
-"../../../../../../Study/4 year/UE4/Uppunu/Content/Basics/Sound/Effects/Invisibility.uasset" 334
-"../../../../../../Study/4 year/UE4/Uppunu/Content/Basics/Sound/Effects/Invisibility_Cue.uasset" 335
-"../../../../../../Study/4 year/UE4/Uppunu/Content/Basics/Sound/Effects/Rotation.uasset" 336
-"../../../../../../Study/4 year/UE4/Uppunu/Content/Basics/Sound/Effects/Rotation_Cue.uasset" 337
-"../../../../../../Study/4 year/UE4/Uppunu/Content/Basics/Sound/Effects/True_Answer.uasset" 338
-"../../../../../../Study/4 year/UE4/Uppunu/Content/Basics/Sound/Effects/True_Answer_Cue.uasset" 339
-"../../../../../../Study/4 year/UE4/Uppunu/Content/Basics/Sound/Effects/Water_BackGround.uasset" 340
-"../../../../../../Study/4 year/UE4/Uppunu/Content/Basics/Sound/Effects/Water_BackGround_Cue.uasset" 341
-"../../../../../../Study/4 year/UE4/Uppunu/Content/Basics/Sound/Music/Main_BackGround.uasset" 342
-"../../../../../../Study/4 year/UE4/Uppunu/Content/Basics/Sound/Music/Main_BackGround_Cue.uasset" 343
-"../../../../../../Study/4 year/UE4/Uppunu/Content/Basics/Levels/Training_Level.umap" 344
-"../../../Engine/Content/Maps/Entry_BuiltData.uasset" 345
-"../../../Engine/Content/Maps/Entry.umap" 346
+"../../../../../../Study/4 year/UE4/Uppunu/Content/Basics/HUD/Open_Level/Open_Level.uasset" 327
+"../../../../../../Study/4 year/UE4/Uppunu/Content/Basics/HUD/Timer_Answers/Answer_False.uasset" 328
+"../../../../../../Study/4 year/UE4/Uppunu/Content/Basics/HUD/Timer_Answers/Answer_True.uasset" 329
+"../../../../../../Study/4 year/UE4/Uppunu/Content/Basics/HUD/Timer_Answers/Timer_Clock.uasset" 330
+"../../../../../../Study/4 year/UE4/Uppunu/Content/Basics/HUD/Timer_Answers/Timer_Line.uasset" 331
+"../../../../../../Study/4 year/UE4/Uppunu/Content/Basics/HUD/Timer_Answers/Timer_Line_Off.uasset" 332
+"../../../../../../Study/4 year/UE4/Uppunu/Content/Basics/HUD/Timer_Answers/Main_Timer_Answers.uasset" 333
+"../../../../../../Study/4 year/UE4/Uppunu/Content/Basics/Sound/Effects/False_Answer.uasset" 334
+"../../../../../../Study/4 year/UE4/Uppunu/Content/Basics/Sound/Effects/False_Answer_Cue.uasset" 335
+"../../../../../../Study/4 year/UE4/Uppunu/Content/Basics/Sound/Effects/HurryUp.uasset" 336
+"../../../../../../Study/4 year/UE4/Uppunu/Content/Basics/Sound/Effects/HurryUp_Cue.uasset" 337
+"../../../../../../Study/4 year/UE4/Uppunu/Content/Basics/Sound/Effects/Invisibility.uasset" 338
+"../../../../../../Study/4 year/UE4/Uppunu/Content/Basics/Sound/Effects/Invisibility_Cue.uasset" 339
+"../../../../../../Study/4 year/UE4/Uppunu/Content/Basics/Sound/Effects/Rotation.uasset" 340
+"../../../../../../Study/4 year/UE4/Uppunu/Content/Basics/Sound/Effects/Rotation_Cue.uasset" 341
+"../../../../../../Study/4 year/UE4/Uppunu/Content/Basics/Sound/Effects/True_Answer.uasset" 342
+"../../../../../../Study/4 year/UE4/Uppunu/Content/Basics/Sound/Effects/True_Answer_Cue.uasset" 343
+"../../../../../../Study/4 year/UE4/Uppunu/Content/Basics/Sound/Effects/Water_BackGround.uasset" 344
+"../../../../../../Study/4 year/UE4/Uppunu/Content/Basics/Sound/Effects/Water_BackGround_Cue.uasset" 345
+"../../../../../../Study/4 year/UE4/Uppunu/Content/Basics/Sound/Music/Main_BackGround.uasset" 346
+"../../../../../../Study/4 year/UE4/Uppunu/Content/Basics/Sound/Music/Main_BackGround_Cue.uasset" 347
+"../../../../../../Study/4 year/UE4/Uppunu/Content/Basics/Levels/Training_Level.umap" 348
+"../../../Engine/Content/Maps/Entry_BuiltData.uasset" 349
+"../../../Engine/Content/Maps/Entry.umap" 350
