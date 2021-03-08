@@ -329,23 +329,25 @@
 "../../../../../../Study/4 year/UE4/Uppunu/Content/Basics/HUD/Timer_Answers/Answer_False.uasset" 328
 "../../../../../../Study/4 year/UE4/Uppunu/Content/Basics/HUD/Timer_Answers/Answer_True.uasset" 329
 "../../../../../../Study/4 year/UE4/Uppunu/Content/Basics/HUD/Timer_Answers/Timer_Clock.uasset" 330
-"../../../../../../Study/4 year/UE4/Uppunu/Content/Basics/HUD/Timer_Answers/Timer_Line.uasset" 331
-"../../../../../../Study/4 year/UE4/Uppunu/Content/Basics/HUD/Timer_Answers/Timer_Line_Off.uasset" 332
-"../../../../../../Study/4 year/UE4/Uppunu/Content/Basics/HUD/Timer_Answers/Main_Timer_Answers.uasset" 333
-"../../../../../../Study/4 year/UE4/Uppunu/Content/Basics/Sound/Effects/False_Answer.uasset" 334
-"../../../../../../Study/4 year/UE4/Uppunu/Content/Basics/Sound/Effects/False_Answer_Cue.uasset" 335
-"../../../../../../Study/4 year/UE4/Uppunu/Content/Basics/Sound/Effects/HurryUp.uasset" 336
-"../../../../../../Study/4 year/UE4/Uppunu/Content/Basics/Sound/Effects/HurryUp_Cue.uasset" 337
-"../../../../../../Study/4 year/UE4/Uppunu/Content/Basics/Sound/Effects/Invisibility.uasset" 338
-"../../../../../../Study/4 year/UE4/Uppunu/Content/Basics/Sound/Effects/Invisibility_Cue.uasset" 339
-"../../../../../../Study/4 year/UE4/Uppunu/Content/Basics/Sound/Effects/Rotation.uasset" 340
-"../../../../../../Study/4 year/UE4/Uppunu/Content/Basics/Sound/Effects/Rotation_Cue.uasset" 341
-"../../../../../../Study/4 year/UE4/Uppunu/Content/Basics/Sound/Effects/True_Answer.uasset" 342
-"../../../../../../Study/4 year/UE4/Uppunu/Content/Basics/Sound/Effects/True_Answer_Cue.uasset" 343
-"../../../../../../Study/4 year/UE4/Uppunu/Content/Basics/Sound/Effects/Water_BackGround.uasset" 344
-"../../../../../../Study/4 year/UE4/Uppunu/Content/Basics/Sound/Effects/Water_BackGround_Cue.uasset" 345
-"../../../../../../Study/4 year/UE4/Uppunu/Content/Basics/Sound/Music/Main_BackGround.uasset" 346
-"../../../../../../Study/4 year/UE4/Uppunu/Content/Basics/Sound/Music/Main_BackGround_Cue.uasset" 347
-"../../../../../../Study/4 year/UE4/Uppunu/Content/Basics/Levels/Training_Level.umap" 348
-"../../../Engine/Content/Maps/Entry_BuiltData.uasset" 349
-"../../../Engine/Content/Maps/Entry.umap" 350
+"../../../../../../Study/4 year/UE4/Uppunu/Content/Basics/HUD/Timer_Answers/Timer_Line_left.uasset" 331
+"../../../../../../Study/4 year/UE4/Uppunu/Content/Basics/HUD/Timer_Answers/Timer_Line_Outline.uasset" 332
+"../../../../../../Study/4 year/UE4/Uppunu/Content/Basics/HUD/Timer_Answers/Timer_Line_Right.uasset" 333
+"../../../../../../Study/4 year/UE4/Uppunu/Content/Basics/HUD/Timer_Answers/Timer_Line_White.uasset" 334
+"../../../../../../Study/4 year/UE4/Uppunu/Content/Basics/HUD/Timer_Answers/Main_Timer_Answers.uasset" 335
+"../../../../../../Study/4 year/UE4/Uppunu/Content/Basics/Sound/Effects/False_Answer.uasset" 336
+"../../../../../../Study/4 year/UE4/Uppunu/Content/Basics/Sound/Effects/False_Answer_Cue.uasset" 337
+"../../../../../../Study/4 year/UE4/Uppunu/Content/Basics/Sound/Effects/HurryUp.uasset" 338
+"../../../../../../Study/4 year/UE4/Uppunu/Content/Basics/Sound/Effects/HurryUp_Cue.uasset" 339
+"../../../../../../Study/4 year/UE4/Uppunu/Content/Basics/Sound/Effects/Invisibility.uasset" 340
+"../../../../../../Study/4 year/UE4/Uppunu/Content/Basics/Sound/Effects/Invisibility_Cue.uasset" 341
+"../../../../../../Study/4 year/UE4/Uppunu/Content/Basics/Sound/Effects/Rotation.uasset" 342
+"../../../../../../Study/4 year/UE4/Uppunu/Content/Basics/Sound/Effects/Rotation_Cue.uasset" 343
+"../../../../../../Study/4 year/UE4/Uppunu/Content/Basics/Sound/Effects/True_Answer.uasset" 344
+"../../../../../../Study/4 year/UE4/Uppunu/Content/Basics/Sound/Effects/True_Answer_Cue.uasset" 345
+"../../../../../../Study/4 year/UE4/Uppunu/Content/Basics/Sound/Effects/Water_BackGround.uasset" 346
+"../../../../../../Study/4 year/UE4/Uppunu/Content/Basics/Sound/Effects/Water_BackGround_Cue.uasset" 347
+"../../../../../../Study/4 year/UE4/Uppunu/Content/Basics/Sound/Music/Main_BackGround.uasset" 348
+"../../../../../../Study/4 year/UE4/Uppunu/Content/Basics/Sound/Music/Main_BackGround_Cue.uasset" 349
+"../../../../../../Study/4 year/UE4/Uppunu/Content/Basics/Levels/Training_Level.umap" 350
+"../../../Engine/Content/Maps/Entry_BuiltData.uasset" 351
+"../../../Engine/Content/Maps/Entry.umap" 352
